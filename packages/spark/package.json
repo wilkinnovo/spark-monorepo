@@ -1,7 +1,7 @@
 {
   "name": "spark-html",
-  "version": "0.3.2",
-  "description": "Svelte-style single-file HTML components with zero build step",
+  "version": "0.3.3",
+  "description": "Get your spark back. HTML that reacts!.",
   "type": "module",
   "main": "./src/index.js",
   "exports": {
